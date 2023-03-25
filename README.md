@@ -5,6 +5,8 @@
 ### Module 1: Count Purchases by Category
 ##### This module reads in a CSV file containing spending data for the last month and displays a bar chart of the number of purchases for each category. The purpose of this module is to determine which categories are the most frequently spent on.
 
+<img src="/Users/ritik3411/Desktop/Screenshot 2023-03-24 at 9.25.08 PM" width=250><br>
+
 ### Module 2: Spending Per Month
 ##### This module calculates the total amount of money spent for each month and displays a line chart of the monthly spending. The purpose of this module is to show how spending varies over time and identify any trends or outliers.
 
