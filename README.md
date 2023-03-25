@@ -4,15 +4,15 @@
 ## Modules
 ### Module 1: Count Purchases by Category
 ##### This module reads in a CSV file containing spending data for the last month and displays a bar chart of the number of purchases for each category. The purpose of this module is to determine which categories are the most frequently spent on.
-
 <img width="752" alt="Screenshot 2023-03-24 at 9 25 08 PM" src="https://user-images.githubusercontent.com/78570667/227686772-ff335885-4b4d-4d19-b6b0-40b64e7a4360.png">
-
 
 ### Module 2: Spending Per Month
 ##### This module calculates the total amount of money spent for each month and displays a line chart of the monthly spending. The purpose of this module is to show how spending varies over time and identify any trends or outliers.
+<img width="752" alt="Screenshot 2023-03-24 at 11 00 58 PM" src="https://user-images.githubusercontent.com/78570667/227687366-eaf2ad0f-a04f-4b1d-9eb2-7f387ddea297.png">
 
 ### Module 3: Budget Overages
 ##### This module compares the user's spending with their budget for each category and displays a pie chart of the percentage of the budget that has been exceeded. The purpose of this module is to identify which categories need to be cut back on or allocated more funds to.
+<img width="752" alt="Screenshot 2023-03-24 at 11 01 36 PM" src="https://user-images.githubusercontent.com/78570667/227687491-a3919a9f-488b-4e4c-9d76-5b2a999eddd0.png">
 
 ## Dependencies
 * Python 3
