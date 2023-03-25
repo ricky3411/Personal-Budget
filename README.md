@@ -1,17 +1,17 @@
-#Personal Budget Analysis Tool
-###This project is a budget analysis tool that helps users visualize their spending habits based on their expenses data. The project consists of three modules, each providing different insights into the user's spending patterns.
+# Personal Budget Analysis Tool
+### This project is a budget analysis tool that helps users visualize their spending habits based on their expenses data. The project consists of three modules, each providing different insights into the user's spending patterns.
 
-#Modules
-##Module 1: Count Purchases by Category
-###This module reads in a CSV file containing spending data for the last month and displays a bar chart of the number of purchases for each category. The purpose of this module is to determine which categories are the most frequently spent on.
+# Modules
+## Module 1: Count Purchases by Category
+### This module reads in a CSV file containing spending data for the last month and displays a bar chart of the number of purchases for each category. The purpose of this module is to determine which categories are the most frequently spent on.
 
-##Module 2: Spending Per Month
-###This module calculates the total amount of money spent for each month and displays a line chart of the monthly spending. The purpose of this module is to show how spending varies over time and identify any trends or outliers.
+## Module 2: Spending Per Month
+### This module calculates the total amount of money spent for each month and displays a line chart of the monthly spending. The purpose of this module is to show how spending varies over time and identify any trends or outliers.
 
-##Module 3: Budget Overages
-###This module compares the user's spending with their budget for each category and displays a pie chart of the percentage of the budget that has been exceeded. The purpose of this module is to identify which categories need to be cut back on or allocated more funds to.
+## Module 3: Budget Overages
+### This module compares the user's spending with their budget for each category and displays a pie chart of the percentage of the budget that has been exceeded. The purpose of this module is to identify which categories need to be cut back on or allocated more funds to.
 
-#Dependencies
+# Dependencies
 *Python 3
 *matplotlib
 *pytest
