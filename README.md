@@ -1,5 +1,5 @@
 # Personal Budget Analysis Tool
-### This project is a budget analysis tool that helps users visualize their spending habits based on their expenses data. The project consists of three modules, each providing different insights into the user's spending patterns.
+##### This project is a budget analysis tool that helps users visualize their spending habits based on their expenses data. The project consists of three modules, each providing different insights into the user's spending patterns.
 
 ## Modules
 ### Module 1: Count Purchases by Category
