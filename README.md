@@ -21,12 +21,12 @@
 
 ## Usage
 1. Install the required dependencies by running pip install -r requirements.txt in the project directory.
-2. Prepare your expenses data in a CSV format.
+2. Prepare expenses data in a CSV format.
 3. Run each module separately by running the corresponding file in the project directory:
     * python count_purchases_by_category.py expenses.csv
     * python spending_per_month.py expenses.csv
     * python budget_overages.py expenses.csv budget.csv
-4. Follow the prompts to visualize your data.
+4. Follow the prompts to visualize the data.
 
 ## Testing
 ##### Tests for the project are available in the tests directory. To run the tests, navigate to the project directory and run pytest in the command line.
